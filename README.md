@@ -16,3 +16,17 @@ code sample: `install.packages()`
 dir()
 getwd()
 ```
+
+
+## This is a list
+- item 1
+- item 2
+- item 3
+  - sub-item 3
+- item 4
+
+This is a numbered list
+1. item 1
+2. item 2
+3. item 3
+
